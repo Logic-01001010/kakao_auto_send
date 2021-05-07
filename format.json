@@ -1,0 +1,13 @@
+{
+	"password":"{Insert_password}",
+	"room":"{Insert_room_name}",
+	"date":{
+		"year":"2021",
+		"month":"5",
+		"day":"7",
+		"hour":"17",
+		"min":"*"
+	},
+	"message":"{Insert_message}"
+
+}
